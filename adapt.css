@@ -113,11 +113,11 @@ ul {
 
 @keyframes mymove {
     from {
-        top: 430px;
+        top: 450px;
     }
 
     to {
-        top: 520px;
+        top: 670px;
     }
 }
 
@@ -425,7 +425,6 @@ footer {
         position: relative;
         bottom: 0px;
         padding: 20px;
-
         text-align: center;
         font-family: serif;
     }
@@ -453,5 +452,13 @@ footer {
         font-family: serif;
         margin: 0 auto;
         z-index: 3;
+    }
+
+    #naslov {
+        font-family: serif;
+        text-align: center;
+        padding-top: 30px;
+        font-size: 90%;
+
     }
 }
