@@ -4,6 +4,7 @@ body {
     width: 100%;
 }
 
+
 #bodi {
     height: 2900px;
     overflow-x: hidden;
@@ -329,11 +330,7 @@ footer {
 }
 
 
-.oNama {
-    position: relative;
-    bottom: 860px;
-    margin-left: 500px;
-}
+
 
 .kontakt {
     text-align: center;
@@ -436,12 +433,7 @@ footer {
         font-family: serif;
     }
 
-    .oNama {
-        position: relative;
-        bottom: 0px;
-        margin-left: 130px;
-    }
-
+   
     #uvod {
         background: white;
         height: 100px;
@@ -460,11 +452,12 @@ footer {
         margin: 0 auto;
         z-index: 3;
     }
+
     #naslov {
-    font-family: serif;
-    text-align: center;
-    padding-top: 30px;
-    font-size: 90%;
-        
-}
+        font-family: serif;
+        text-align: center;
+        padding-top: 30px;
+        font-size: 90%;
+
+    }
 }
