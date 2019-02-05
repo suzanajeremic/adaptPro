@@ -114,7 +114,7 @@ ul {
     left: 640px;
     width: 60px;
     height: 60px;
-    animation: mymove 5s infinite;
+    animation: mymove 15s infinite;
     cursor: pointer;
 }
 
