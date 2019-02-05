@@ -366,23 +366,23 @@ footer {
         left: 70px;
         width: 0;
         overflow: hidden;
-        height: 195px;
+        height: 189px;
         transition: .5s ease;
         background: rgba(204, 204, 204, 0.5);
     }
 
     #dekoracija:hover .overlay {
-        width: 263px;
+        width: 252px;
         cursor: pointer;
     }
 
     #dekoracija2:hover .overlay {
-        width: 263px;
+        width: 252px;
         cursor: pointer;
     }
 
     #dekoracija3:hover .overlay {
-        width: 263px;
+        width: 252px;
         cursor: pointer;
     }
 
@@ -425,6 +425,7 @@ footer {
         position: relative;
         bottom: 0px;
         padding: 20px;
+
         text-align: center;
         font-family: serif;
     }
@@ -453,12 +454,11 @@ footer {
         margin: 0 auto;
         z-index: 3;
     }
-
     #naslov {
-        font-family: serif;
-        text-align: center;
-        padding-top: 30px;
-        font-size: 90%;
-
-    }
+    font-family: serif;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 90%;
+        
+}
 }
